@@ -31,19 +31,10 @@ A multiplayer game for Flipper Zero devices over Sub-GHz radio - combining low-l
 
 ---
 
-## 🎯 How I Work
-
-I like code that is:
-- **Clean** - easy to read, maintain, and extend
-- **Performant** - fast and resource-efficient
-- **Purposeful** - built to solve real problems elegantly
-
----
-
 ## 📡 Hobbies & Crossovers
 
-When I’m not coding, I’m often building:
-- Electronics projects involving sensors, radios, or e-paper / LCD displays
-- International travel & exploration
-- HAM Radio
-- Kayaking, swimming and anything that involves being in water
+When I’m not coding, I’m usually:
+- Tinkering with electronics projects involving sensors, radios, or e-paper / LCD displays
+- Travelling to and exploring exotic, far away destinations
+- Experimenting with HAM Radio
+- Kayaking, swimming or anything that involves being in water
